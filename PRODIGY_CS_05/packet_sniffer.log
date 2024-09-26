@@ -1,0 +1,1020 @@
+2024-09-26 15:55:46,457 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:46,468 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x01\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:46,473 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x02\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:46,559 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:46,564 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:46,574 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:46,580 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:46,596 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x01\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:46,716 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\x15\x05\x00\x00\x00\x02\x04\x00\x00\x00\xe0\x00\x00\xfb\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:46,744 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xea\x03\x00\x00\x00\x01\x04\x00\x00\x00\xef\xff\xff\xfa'
+------------------------------
+2024-09-26 15:55:46,753 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:46,756 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:46,854 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,073 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\x05\x06\x00\x00\x00\x02\x04\x00\x00\x00\xef\xff\xff\xfa\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:47,087 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x02\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:47,091 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x01\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:47,281 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:47,282 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x02\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:47,293 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,301 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,305 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,318 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,328 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,355 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,358 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:47,574 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\x14\x05\x00\x00\x00\x02\x04\x00\x00\x00\xe0\x00\x00\xfc\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:47,611 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,032 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,033 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,063 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,065 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,339 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,370 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,623 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,712 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,715 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,790 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,792 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:48,799 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: b' EEEFFDELFEEPFACNDAEHEHFGDBFDDCCA\x00\x00 \x00\x01\xc0\x0c\x00 \x00\x01\x00\x04\x93\xe0\x00\x06`\x00\xc0\xa8C\x92'
+------------------------------
+2024-09-26 15:55:48,949 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: b' EEEFFDELFEEPFACNDAEHEHFGDBFDDCAA\x00\x00 \x00\x01\xc0\x0c\x00 \x00\x01\x00\x04\x93\xe0\x00\x06`\x00\xc0\xa8C\x92'
+------------------------------
+2024-09-26 15:55:48,949 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.255
+Protocol: UDP
+Payload: b' FHEPFCELEHFCEPFFFACACACACACACAAA\x00\x00 \x00\x01\xc0\x0c\x00 \x00\x01\x00\x04\x93\xe0\x00\x06\xe0\x00\xc0\xa8C\x92'
+------------------------------
+2024-09-26 15:55:48,961 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,059 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,181 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,223 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,226 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,398 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:49,713 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x02\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:49,718 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x01\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:49,729 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x02\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:49,738 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:49,749 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,011 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x02\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:50,015 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,022 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,029 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x02\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:50,031 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,046 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,050 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,075 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.252
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,077 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\x14\x05\x00\x00\x00\x02\x04\x00\x00\x00\xe0\x00\x00\xfc\x04\x00\x00\x00\xe0\x00\x00\xfb'
+------------------------------
+2024-09-26 15:55:50,185 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,383 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,604 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,617 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xfa\x01\x00\x00\x00\x01\x03\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:50,700 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:50,704 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,710 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,721 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,725 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,730 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:50,736 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,072 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.22
+Protocol: Other
+Payload: b'"\x00\xf9\x01\x00\x00\x00\x01\x04\x00\x00\x00\xe0\x00\x00\xfc'
+------------------------------
+2024-09-26 15:55:51,157 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,177 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,197 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,201 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,208 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,313 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,317 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,792 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,794 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,800 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,802 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,816 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,816 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,827 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,886 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,888 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,896 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,902 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,909 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,917 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:51,924 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,019 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,055 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,058 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,064 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,073 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,078 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,115 - Source IP: 192.168.67.146
+Destination IP: 140.82.113.26
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,360 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,396 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,516 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,520 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,820 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,821 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,863 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:52,884 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,046 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,048 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,135 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,138 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,328 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,338 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,353 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,376 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,380 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,396 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,398 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,408 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,446 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,461 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,629 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:pub="http://schemas.microsoft.com/windows/pub/2005/07"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Hello</wsa:Action><wsa:MessageID>urn:uuid:4e6c33e3-13ea-4adb-bdf8-7f7b239d7fec</wsa:MessageID><wsd:AppSequence InstanceId="11" SequenceId="urn:uuid:56d1716a-4891-4f79-9b33-9df8a68c781b" MessageNumber="84"></wsd:AppSequence></soap:Header><soap:Body><wsd:Hello><wsa:EndpointReference><wsa:Address>urn:uuid:992d5133-b98d-45b9-86aa-145776d8c9c1</wsa:Address></wsa:EndpointReference><wsd:Types>wsdp:Device pub:Computer</wsd:Types><wsd:XAddrs>http://192.168.67.146:5357/992d5133-b98d-45b9-86aa-145776d8c9c1/</wsd:XAddrs><wsd:MetadataVersion>99</wsd:MetadataVersion></wsd:Hello></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:53,636 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:53,646 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,656 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,692 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:53,748 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:pub="http://schemas.microsoft.com/windows/pub/2005/07"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Hello</wsa:Action><wsa:MessageID>urn:uuid:4e6c33e3-13ea-4adb-bdf8-7f7b239d7fec</wsa:MessageID><wsd:AppSequence InstanceId="11" SequenceId="urn:uuid:56d1716a-4891-4f79-9b33-9df8a68c781b" MessageNumber="84"></wsd:AppSequence></soap:Header><soap:Body><wsd:Hello><wsa:EndpointReference><wsa:Address>urn:uuid:992d5133-b98d-45b9-86aa-145776d8c9c1</wsa:Address></wsa:EndpointReference><wsd:Types>wsdp:Device pub:Computer</wsd:Types><wsd:XAddrs>http://192.168.67.146:5357/992d5133-b98d-45b9-86aa-145776d8c9c1/</wsd:XAddrs><wsd:MetadataVersion>99</wsd:MetadataVersion></wsd:Hello></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:53,777 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,778 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,829 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,831 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:53,894 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:54,150 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:pub="http://schemas.microsoft.com/windows/pub/2005/07"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Hello</wsa:Action><wsa:MessageID>urn:uuid:4e6c33e3-13ea-4adb-bdf8-7f7b239d7fec</wsa:MessageID><wsd:AppSequence InstanceId="11" SequenceId="urn:uuid:56d1716a-4891-4f79-9b33-9df8a68c781b" MessageNumber="84"></wsd:AppSequence></soap:Header><soap:Body><wsd:Hello><wsa:EndpointReference><wsa:Address>urn:uuid:992d5133-b98d-45b9-86aa-145776d8c9c1</wsa:Address></wsa:EndpointReference><wsd:Types>wsdp:Device pub:Computer</wsd:Types><wsd:XAddrs>http://192.168.67.146:5357/992d5133-b98d-45b9-86aa-145776d8c9c1/</wsd:XAddrs><wsd:MetadataVersion>99</wsd:MetadataVersion></wsd:Hello></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:54,292 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:54,310 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:54,384 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:54,603 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof" xmlns:pub="http://schemas.microsoft.com/windows/pub/2005/07"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Hello</wsa:Action><wsa:MessageID>urn:uuid:4e6c33e3-13ea-4adb-bdf8-7f7b239d7fec</wsa:MessageID><wsd:AppSequence InstanceId="11" SequenceId="urn:uuid:56d1716a-4891-4f79-9b33-9df8a68c781b" MessageNumber="84"></wsd:AppSequence></soap:Header><soap:Body><wsd:Hello><wsa:EndpointReference><wsa:Address>urn:uuid:992d5133-b98d-45b9-86aa-145776d8c9c1</wsa:Address></wsa:EndpointReference><wsd:Types>wsdp:Device pub:Computer</wsd:Types><wsd:XAddrs>http://192.168.67.146:5357/992d5133-b98d-45b9-86aa-145776d8c9c1/</wsd:XAddrs><wsd:MetadataVersion>99</wsd:MetadataVersion></wsd:Hello></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:55,089 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:55,105 - Source IP: 192.168.67.146
+Destination IP: 20.190.146.35
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:55:55,121 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:55,321 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:55,537 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:55,541 - Source IP: 0.0.0.0
+Destination IP: 255.255.255.255
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:56,111 - Source IP: 192.168.67.146
+Destination IP: 20.190.146.35
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:55:56,119 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:56,636 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:56,693 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:57,337 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:57,776 - Source IP: 192.168.67.146
+Destination IP: 224.0.0.251
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:55:57,783 - Source IP: 192.168.67.140
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMAN: "ssdp:discover"\r\nMX: 2\r\n\r\n'
+------------------------------
+2024-09-26 15:55:58,122 - Source IP: 192.168.67.146
+Destination IP: 20.190.146.35
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:55:58,547 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:58,577 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:58,704 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:55:59,121 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:55:59,646 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:00,704 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:aacf75d0-2c40-4c75-8dec-55ca04b9809b</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:01,587 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:01,625 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:02,123 - Source IP: 192.168.67.146
+Destination IP: 20.190.146.35
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:02,125 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: urn:schemas-upnp-org:device:InternetGatewayDevice:1\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:03,118 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,119 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,162 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,164 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,175 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,177 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,185 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,192 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,294 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,305 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: b'\x00,'
+------------------------------
+2024-09-26 15:56:03,308 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: b'\x9b`\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07android\x07clients\x06google\x03com\x00\x00\x1c\x00\x01'
+------------------------------
+2024-09-26 15:56:03,315 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,317 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,326 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: b'\x02'
+------------------------------
+2024-09-26 15:56:03,358 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,359 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: b'\x04\x9b`\x81\x80\x00\x01\x00\x11\x00\x00\x00\x00\x07android\x07clients\x06google\x03com\x00\x00\x1c\x00\x01\xc0\x0c\x00\x05\x00\x01\x00\x00\x00T\x00\x0c\x07android\x01l\xc0\x1c\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb7\xce\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfaB\x0e\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xc7\x8e\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xc7\xae\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfb*n\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfaF.\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfb*N\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfaC\xee\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\xac\xd9\xaeN\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfaM.\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfaMN\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb6\xce\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb6\xee\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb7\x0e\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb7\x8e\xc08\x00\x1c\x00\x01\x00\x00\x00T\x00\x10\x00d\xff\x9b\x00\x00\x00\x00\x00\x00\x00\x00\x8e\xfa\xb7\xae'
+------------------------------
+2024-09-26 15:56:03,366 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,374 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:03,380 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:09,654 - Source IP: 192.168.67.140
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+------------------------------
+2024-09-26 15:56:09,657 - Source IP: 192.168.67.140
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+------------------------------
+2024-09-26 15:56:10,125 - Source IP: 192.168.67.140
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHOST: 239.255.255.250:1900\r\nMAN: "ssdp:discover"\r\nMX: 1\r\nST: urn:dial-multiscreen-org:service:dial:1\r\n\r\n'
+------------------------------
+2024-09-26 15:56:10,126 - Source IP: 192.168.67.146
+Destination IP: 20.190.146.35
+Protocol: TCP
+Payload: None
+------------------------------
+2024-09-26 15:56:17,807 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:17,809 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:18,051 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:18,054 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:21,325 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:21,353 - Source IP: 192.168.67.146
+Destination IP: 192.168.67.243
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:21,355 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:21,364 - Source IP: 192.168.67.243
+Destination IP: 192.168.67.146
+Protocol: UDP
+Payload: None
+------------------------------
+2024-09-26 15:56:23,773 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:23,903 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:23,968 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:24,347 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:25,080 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:26,545 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:26,750 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:28,558 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
+2024-09-26 15:56:29,759 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'M-SEARCH * HTTP/1.1\r\nHost: 239.255.255.250:1900\r\nST: upnp:rootdevice\r\nMan: "ssdp:discover"\r\nMX: 3\r\n\r\n'
+------------------------------
+2024-09-26 15:56:30,563 - Source IP: 192.168.67.146
+Destination IP: 239.255.255.250
+Protocol: UDP
+Payload: b'<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsd="http://schemas.xmlsoap.org/ws/2005/04/discovery" xmlns:wsdp="http://schemas.xmlsoap.org/ws/2006/02/devprof"><soap:Header><wsa:To>urn:schemas-xmlsoap-org:ws:2005:04:discovery</wsa:To><wsa:Action>http://schemas.xmlsoap.org/ws/2005/04/discovery/Probe</wsa:Action><wsa:MessageID>urn:uuid:697037c2-ebd4-462c-9caa-41db5fd3e2e0</wsa:MessageID></soap:Header><soap:Body><wsd:Probe><wsd:Types>wsdp:Device</wsd:Types></wsd:Probe></soap:Body></soap:Envelope>'
+------------------------------
